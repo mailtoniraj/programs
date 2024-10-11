@@ -40,8 +40,8 @@ class SubsetSum
     // Driver code
     public static void main(String args[])
     {
-        int arr[] = { 2, 5, 8, 4, 6, 11 };
-        int sum = 13;
+        int arr[] = { 2, 3, 5, 6, 8, 10 };
+        int sum = 10;
         int n = arr.length;
         printAllSubsets(arr, n, sum);
 
